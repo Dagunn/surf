@@ -289,7 +289,7 @@ a {
 .btn-link span::after {
   content: "";
   position: absolute;
-  background-image: url("../../img/icons/arrow-right.svg");
+  background-image: url("../img/icons/arrow-right.svg");
   background-repeat: no-repeat;
   width: 25px;
   height: 21px;
@@ -473,7 +473,7 @@ input[type=number] {
 }
 .header__slider-item {
   height: 100vh;
-  background-image: url("../../img/background/header-bg.jpg");
+  background-image: url("../img/background/header-bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -960,22 +960,22 @@ input[type=number] {
   display: none;
 }
 .surf-box-1 {
-  background-image: url("../../img/images/surf-slide-1.jpeg");
+  background-image: url("../img/images/surf-slide-1.jpeg");
 }
 .surf-box-2 {
-  background-image: url("../../img/images/surf-slide-2.jpeg");
+  background-image: url("../img/images/surf-slide-2.jpeg");
 }
 .surf-box-3 {
-  background-image: url("../../img/images/surf-slide-3.jpeg");
+  background-image: url("../img/images/surf-slide-3.jpeg");
 }
 .surf-box-4 {
-  background-image: url("../../img/images/surf-slide-4.jpeg");
+  background-image: url("../img/images/surf-slide-4.jpeg");
 }
 
 .slider-map {
   max-width: 1200px;
   min-height: 635px;
-  background-image: url("../../img/background/worl-map-dots.png");
+  background-image: url("../img/background/worl-map-dots.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -1202,7 +1202,7 @@ input[type=number] {
 }
 
 .travel {
-  background-image: url("../../img/background/coctail.png");
+  background-image: url("../img/background/coctail.png");
   background-position: bottom right;
   background-repeat: no-repeat;
 }
@@ -1380,7 +1380,7 @@ input[type=number] {
 }
 
 .holder {
-  background-image: url("../../img/background/flower.png");
+  background-image: url("../img/background/flower.png");
   background-position: bottom right;
   background-repeat: no-repeat;
 }
@@ -1577,7 +1577,7 @@ input[type=number] {
 }
 
 .shop {
-  background-image: url("../../img/background/shop-bg.png");
+  background-image: url("../img/background/shop-bg.png");
   background-repeat: no-repeat;
   background-position: right center;
 }
